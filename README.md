@@ -27,6 +27,8 @@ A listing of UBC faculty and students working in digital scholarship and digital
 - Current Degree: PhD Asian Studies, Premodern & Early Modern (13th-19th Centuries) Korean & Chinese History
 - Interests: DH approaches to analyzing diplomatic communications between the Korea & China
 
+### Melissa 
+
 ### Reiko
 - Current Degree: MAS, Blockchain focus
 - Interests: how new and alternative technologies can build community and trust outside of traditional memory keeping institutions, 
